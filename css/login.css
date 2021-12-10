@@ -1,0 +1,62 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+ul,ol,li{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
+#wrap{
+    width: 100%;
+}
+
+#login {
+    width: 500px;
+    height: 500px;
+   
+    margin: 0 auto;
+    margin-top: 150px;
+    border: 1px solid #333;
+    border-radius: 10%;
+}
+#login input{
+    width: 80%;
+    height: 50px;
+    margin: 0 auto;
+    margin-bottom: 20px;
+    margin-left: 40px;
+    border: 0;
+    border-bottom: 1px solid #333;
+}
+#login button{
+
+    width: 80%;
+    height: 50px;
+    background-color: pink;
+    margin-top: 40px;
+    margin-left: 40px;
+}
+
+#login h1{
+    /* margin: 0 auto; */
+    text-align: center;
+}
+#login img{
+    width: 200px;
+    height: 200px;
+}
+
+#login ul{
+margin: 25px 0 0 130px;
+}
+
+#login ul li{
+float: left;
+margin-right: 50px;
+}
+
+#login ul li a{
+color: #333;
+}

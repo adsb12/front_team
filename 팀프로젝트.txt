@@ -1,0 +1,19 @@
+메인이미지 넘기는거 (자동)
+메인메뉴 넘기는거
+메뉴이동시 나타나기
+
+
+
+html
+	메인페이지
+	header			1
+	section1(메인이미지)	2
+	section2			3
+	section3			
+	footer			1
+css
+
+javascript
+jquery
+
+반응형
