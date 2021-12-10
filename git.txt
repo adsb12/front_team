@@ -1,0 +1,3 @@
+git 이메일 권한 없을때 (403에러)
+git remote set-url https://github.com/adsb12/front_team.git
+git remote set-url {remote git 주소 복사}
